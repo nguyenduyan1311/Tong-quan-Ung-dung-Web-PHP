@@ -26,7 +26,6 @@
       <server host="localhost" id="e6754182-7b2c-4dcd-a4a5-93bb52b38255" name="PHP" port="63342" />
     </servers>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1lJGgoU7mEv10c1pmxJ9WHRA1nn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,7 +45,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -64,7 +63,7 @@
       <updated>1607307893784</updated>
       <workItem from="1607307894898" duration="7357000" />
       <workItem from="1607320676825" duration="2090000" />
-      <workItem from="1607325506684" duration="2512000" />
+      <workItem from="1607325506684" duration="4617000" />
     </task>
     <servers />
   </component>
