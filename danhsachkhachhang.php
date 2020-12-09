@@ -28,23 +28,23 @@ $customerlist = array(
     "1" => array("ten" => "Mai Văn Hoàn",
         "ngaysinh" => "1983-08-20",
         "diachi" => "Hà Nội",
-        "anh" => "images/img1.jpg"),
+        "anh" => "https://i.imgur.com/GVat3HQ.jpg"),
     "2" => array("ten" => "Nguyễn Văn Nam",
         "ngaysinh" => "1983-08-20",
         "diachi" => "Bắc Giang",
-        "anh" => "images/img2.jpg"),
+        "anh" => "https://i.imgur.com/x7cbIwV.jpg"),
     "3" => array("ten" => "Nguyễn Thái Hòa",
         "ngaysinh" => "1983-08-21",
         "diachi" => "Nam Định",
-        "anh" => "images/img3.jpg"),
+        "anh" => "https://i.imgur.com/zA9m9Mg.jpg"),
     "4" => array("ten" => "Trần Đăng Khoa",
         "ngaysinh" => "1983-08-22",
         "diachi" => "Hà Tây",
-        "anh" => "images/img4.jpg"),
+        "anh" => "https://i.imgur.com/Z4hcOTi.jpg"),
     "5" => array("ten" => "Nguyễn Đình Thi",
         "ngaysinh" => "1983-08-17",
         "diachi" => "Hà Nội",
-        "anh" => "images/img5.jpg")
+        "anh" => "https://i.imgur.com/UZ8nkFr.jpg")
 );
 foreach($customerlist as $key => $values){
     echo "<tr>";
